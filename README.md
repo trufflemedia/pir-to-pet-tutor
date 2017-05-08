@@ -16,3 +16,5 @@ The hardware required this software to function includes:
 
 The code (arduino sketch) is used to allow the Bean+ to use the Seeed PIR, or passive infra red, motion detector to detect motion and request the Pet Tutor Blu iOS app (https://itunes.apple.com/us/app/pettutor-blu/id934260904 ) to trigger the Pet Tutor Blu feeder to dispense kibbles.
 
+pir-basic-demo.ino
+* A basic PIR demo, only requires the Bean+ and the PIR detector
