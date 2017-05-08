@@ -1,5 +1,5 @@
 # pir-to-pet-tutor
-This code is used to demonstrate how the [Seeed PIR](http://wiki.seeed.cc/Grove-PIR_Motion_Sensor/) can be used to detect a person and trigger a Smart Animal Training Systems [Pet Tutor](https://smartanimaltraining.com/products/feeder-only) to dispense kibbles.
+This code is used to demonstrate how the [Seeed PIR](http://wiki.seeed.cc/Grove-PIR_Motion_Sensor/) can be used to detect a person and trigger a Smart Animal Training Systems [Pet Tutor Pro with Bluetooth](https://smartanimaltraining.com/products/feeder-only) to dispense kibbles.
 
 #### pir-basic-demo.ino
 
