@@ -1,7 +1,12 @@
 # pir-to-pet-tutor
 This code is used to demonstrate how the Seeed PIR can be used to detect a person and trigger a Smart Animal Training Systems Pet Tutor to dispense kibbles.
 
-The hardware required for pir-to-feeder.ino to function includes:
+#### pir-basic-demo.ino
+* A basic PIR demo, only requires the Bean+ and the PIR detector
+
+#### pir-to-feeder.ino
+
+The hardware required for this to function includes:
 
 #### Seeed PIR with Grove connector
 
@@ -17,5 +22,3 @@ The hardware required for pir-to-feeder.ino to function includes:
 
 The code (arduino sketch) is used to allow the Bean+ to use the Seeed PIR, or passive infra red, motion detector to detect motion and request the Pet Tutor Blu iOS app (https://itunes.apple.com/us/app/pettutor-blu/id934260904 ) to trigger the Pet Tutor Blu feeder to dispense kibbles.
 
-#### pir-basic-demo.ino
-* A basic PIR demo, only requires the Bean+ and the PIR detector
