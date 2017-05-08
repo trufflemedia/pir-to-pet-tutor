@@ -1,7 +1,7 @@
 # pir-to-pet-tutor
 This code is used to demonstrate how the Seeed PIR can be used to detect a person and trigger a Smart Animal Training Systems Pet Tutor to dispense kibbles.
 
-The hardware required this software to function includes:
+The hardware required for pir-to-feeder.ino to function includes:
 
 #### Seeed PIR with Grove connector
 
