@@ -17,7 +17,7 @@ The hardware required for this to function includes:
 
 #### pir-to-feeder.ino
 
-The hardware required for this to function includes everything for the PIR basic demo above plus::
+The hardware required for this to function includes everything for the PIR basic demo above plus:
 + Pet Tutor Pro with Bluetooth
   * https://smartanimaltraining.com/products/feeder-only
 
