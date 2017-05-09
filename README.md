@@ -30,3 +30,5 @@ The code (arduino sketch) is used to allow the Bean+ to use the Seeed PIR, or pa
 How can the ability to detect a person or motion be of help in training pets? Below are some use cases. 
 * Delivery person arriving and the dog always barks: The PIR could be placed to notice the delivery person and dispense a kibble as part of training to be quiet.
 * A dog training setting, kennel, or shelter where there are many dogs in crates and a trainer or support person is walking down the aisle: The PIR could be set to trigger the feeder in advance of the person reaching a crate. 
+
+Details on using this repository are on an Instrctables site: [https://www.instructables.com/id/Passive-Infrared-Motion-Detector-Pet-Tutor-Pro-Wit/](https://www.instructables.com/id/Passive-Infrared-Motion-Detector-Pet-Tutor-Pro-Wit/)
