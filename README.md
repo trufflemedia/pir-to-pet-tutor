@@ -1,6 +1,8 @@
 # pir-to-pet-tutor
 This code is used to demonstrate how the [Seeed PIR](http://wiki.seeed.cc/Grove-PIR_Motion_Sensor/) can be used to detect a person and trigger a Smart Animal Training Systems [Pet Tutor Pro with Bluetooth](https://smartanimaltraining.com/products/feeder-only) to dispense kibbles.
 
+A demonstratrion video of the hardware and software in action is at: https://www.youtube.com/watch?v=UboJCq4RM9Y
+
 #### pir-basic-demo.ino
 
 A basic PIR demo, only requires the Bean+ and the PIR detector. 
@@ -23,3 +25,7 @@ The hardware required for this to function includes everything for the PIR basic
 
 The code (arduino sketch) is used to allow the Bean+ to use the Seeed PIR, or passive infra red, motion detector to detect motion and request the Pet Tutor Blu iOS app (Version: 1.3 [https://itunes.apple.com/us/app/pettutor-blu/id934260904](https://itunes.apple.com/us/app/pettutor-blu/id934260904) ) to trigger the Pet Tutor Blu feeder to dispense kibbles.
 
+#### Use cases for a PIR, Bean+, and Pet Tutor Pro with Bluetooth
+How can the ability to detect a person or motion be of help in training pets? Below are some use cases. 
+* Delivery person arriving and the dog always barks: The PIR could be placed to notice the delivery person and dispense a kibble as part of training to be quiet.
+* A dog training setting, kennel, or shelter where there are many dogs in crates and a trainer or support person is walking down the aisle: The PIR could be set to trigger the feeder in advance of the person reaching a crate. 
